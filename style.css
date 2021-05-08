@@ -1,0 +1,43 @@
+
+#title{
+	font-family:'montserrat alternates',sans-serif;
+	text-align: center;
+	font-size: 3rem;
+	padding: 3%;
+
+}
+#answer{
+	font-size: 4rem;
+	margin-top: 4px;
+}
+
+
+
+
+
+.title{
+		background-color: #ff4d4d;
+}
+
+.container{
+	text-align: center;
+	align-content: center;
+}
+.answer{
+	border-style:solid;
+	border-color: lightgreen;
+	margin-right: 2%;
+}
+.col-sm-3{
+	margin-top: 3%;
+}
+.c-2{
+	margin-top: 3%;
+
+}
+
+
+button{
+	width: 90%;
+	height: 90%;
+}
